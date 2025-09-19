@@ -12,5 +12,6 @@ https://pymongo.readthedocs.io/en/stable/api/pymongo/collection.html
 
 https://codesignal.com/learn/courses/developing-and-integrating-a-mcp-server-in-python/lessons/exploring-and-exposing-mcp-server-capabilities-tools-resources-and-prompts
 
+https://glama.ai/mcp/servers/%40wanderingnature/mcp-typed-prompts
 
 
